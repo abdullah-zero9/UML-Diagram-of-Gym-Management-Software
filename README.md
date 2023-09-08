@@ -1,1 +1,2 @@
 # UML-Diagram-of-Gym-Management-Software
+The objective of this project is to create a Gym Management Software UML diagram using Unified Modeling Language (UML) techniques.  The UML diagram included the software's different components, their relationships, and how they interacted with each other. These diagrams provide a visual representation of the software's architecture, making it easier to understand and modify while accurately representing the structure and functionality of the Gym Management Software.
